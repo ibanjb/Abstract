@@ -1,0 +1,17 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.text-pink {
+  color: #FC037C;
+}
+
+.bg-custom {
+  background-color: #D3D3D3;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
